@@ -10,6 +10,6 @@ Kullanılan Malzemeler;
 
 Sistem Akış Şeması ve Panelimiz
 
-<img src="https://github.com/mucahitoner/User-Interface-Development-With-Ultrasonic-Sensors/blob/main/img/sistem-ak%C4%B1%C5%9F-%C5%9Femas%C4%B1.png" width="100%">
+<img src="https://github.com/mucahitoner/User-Interface-Development-With-Ultrasonic-Sensors/blob/main/img/sistem-ak%C4%B1%C5%9F-%C5%9Femas%C4%B1.png" width="100%"/>
 
-<img src="https://github.com/mucahitoner/User-Interface-Development-With-Ultrasonic-Sensors/blob/main/img/ultrasonik-sens%C3%B6r-paneli.jpg" width="100%">
+<img src="https://github.com/mucahitoner/User-Interface-Development-With-Ultrasonic-Sensors/blob/main/img/ultrasonik-sens%C3%B6r-paneli.jpg" width="100%"/>
