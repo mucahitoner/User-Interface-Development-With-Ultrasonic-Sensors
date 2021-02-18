@@ -31,7 +31,7 @@ void NewLine()
     BLUELED=0;
 }
 
-float RangeFinder(char *inputport,char pin)  //lee en el pin especificado
+float RangeFinder(char *inputport,char pin)
 {
       float Range;
 
